@@ -25,7 +25,7 @@ const Card1 = () => {
             <button className="bg-blue-600 text-white px-5 py-1 rounded-2xl text-xs mt-1">
               Sector 2
             </button>
-            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8  greater-mid-xs:pl-6 md:pl-14 min-xs:pl-24">
+            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8  greater-mid-xs:pl-6 md:pl-14 min-xs:pl-8">
               2 min ago
             </p>
           </div>
@@ -67,7 +67,7 @@ const Card1 = () => {
             <button className="bg-blue-600 text-white px-5 py-1 rounded-2xl text-xs mt-1">
               Sector 2
             </button>
-            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8 greater-mid-xs:pl-6 md:pl-14 min-xs:pl-24">
+            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8 greater-mid-xs:pl-6 md:pl-14 min-xs:pl-8">
               2 min ago
             </p>
           </div>
@@ -109,7 +109,7 @@ const Card1 = () => {
             <button className="bg-blue-600 text-white px-5 py-1 rounded-2xl text-xs mt-1">
               Sector 2
             </button>
-            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8 greater-mid-xs:pl-6  md:pl-14 min-xs:pl-24">
+            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8 greater-mid-xs:pl-6  md:pl-14 min-xs:pl-8">
               2 min ago
             </p>
           </div>
@@ -151,7 +151,7 @@ const Card1 = () => {
             <button className="bg-blue-600 text-white px-5 py-1 rounded-2xl text-xs mt-1">
               Sector 2
             </button>
-            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8 greater-mid-xs:pl-6 md:pl-14 min-xs:pl-24">
+            <p className=" text-blue-600 text-sm text-right pl-64 pt-1 lg:pl-20 greater-2xl-xs:pl-8 greater-mid-xs:pl-6 md:pl-14 min-xs:pl-8">
               2 min ago
             </p>
           </div>

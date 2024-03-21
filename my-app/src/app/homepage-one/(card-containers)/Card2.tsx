@@ -4,8 +4,8 @@ import Image from "next/image";
 
 const Card2 = () => {
   return (
-    <div className="flex flex-col ml-24 lg:ml-14 lg:mr-5 mid-xs:ml-4 min-xs:ml-2 min-xs:mr-2">
-      <p className="bg-gray-200 text-red-700 px-1 py-1 font-semibold max-h-8 max-w-60 overflow-hidden text-center justify-center text-base mt-1 ml-2 greater-mid-xs:max-w-64 greater-mid-xs:max-h-12 min-xs:max-w-36">
+    <div className="flex flex-col ml-24 lg:ml-14 lg:mr-5 mid-xs:pr-5  min-xs:ml-2 min-xs:mr-2">
+      <p className="bg-gray-200 text-red-700 px-1 py-1 font-semibold max-h-8 max-w-60 overflow-hidden text-center justify-center text-base mt-1 ml-2 greater-mid-xs:max-w-64 greater-mid-xs:max-h-12 higher-mid-xs:max-w-48 higher-mid-xs:max-h-10 mid-xs:max-w-44 mid-xs:max-h-10 min-xs:max-w-36">
         MARKET STORIES
       </p>
       <div className="flex flex-col">
